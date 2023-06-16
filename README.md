@@ -1,3 +1,4 @@
+![xyz.anye.yuanshen](https://socialify.git.ci/anye1844/xyz.anye.yuanshen/image?description=1&font=Source%20Code%20Pro&forks=1&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Auto)
 # xyz.anye.yuanshen
 原神切服器（安卓端），支持原神国服，原神B服，原神小米服，原神国际服的数据通用转换，以此来实现四个软件共同使用一份游戏数据，避免手机内存不够的问题。
 
